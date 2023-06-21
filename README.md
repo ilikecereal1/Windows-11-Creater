@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Windows-11-Creater
-- 👀 I’m interested in Programing!
-- 💞️ I’m looking to collaborate on a scratch project!
+- 👀 I’m interested in Programing.
 - 📫 How to reach me windows11createrscratch@gmail.com
